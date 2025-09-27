@@ -1,6 +1,5 @@
 # Deskripsi Proyek
-    Sistem ini dibuat untuk mengelolabeasiswa secara online. mahasiswa dapat melakukan registrasi dengan
-mengisi form, mengunggah berkas persyaratan dan melihat hasil status ajuan.
+    Sistem ini dibuat untuk mengelolabeasiswa secara online. mahasiswa dapat melakukan registrasi dengan mengisi form, mengunggah berkas persyaratan dan melihat hasil status ajuan.
 
 # Penjelasan File Utama
  1. config.php
